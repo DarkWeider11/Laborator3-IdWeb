@@ -8,7 +8,7 @@ class test3 extends TestCase
     {
         $con = new mysqli("localhost", "root", "", "onlineshop");
 
-        $query = "SELECT * FROM user_info where email = 'boreagolis@gmail.com' and password = '123456789'";
+        $query = "SELECT * FROM user_info where email = 'boreagolis@gmail.com' and password = '12345678'";
 
         $query_run = mysqli_query($con, $query);
 
