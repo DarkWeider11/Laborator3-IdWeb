@@ -1,0 +1,11 @@
+{
+    "name": "bogdanbobeico/lab-borea",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bogdanbobeico\\LabBorea\\": "src/"
+        }
+    }
+}
