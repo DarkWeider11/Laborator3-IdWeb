@@ -1,1 +1,1 @@
-{"version":1,"defects":{"test1::test":3,"test2::test":4,"test3::test":3},"times":{"test1::test":0.004,"test2::test":0.007,"test3::test":0.008}}
+{"version":1,"defects":{"test1::test":3,"test2::test":4,"test3::test":3},"times":{"test1::test":0.004,"test2::test":0.008,"test3::test":0.159}}
