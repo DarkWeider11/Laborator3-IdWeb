@@ -1,6 +1,4 @@
 <?php
-session_start();
-
 class reducere
 {
     private $pret;

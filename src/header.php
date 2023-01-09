@@ -179,7 +179,7 @@ session_start();
 						<!-- /LOGO -->
 
 						<!-- ACCOUNT -->
-						<div class="col-md-3 clearfix" style ="width: 50%">
+						<div class="col-md-3 clearfix" style ="width: 75%">
 							<div class="header-ctn">
 
 								<!-- Cart -->
@@ -196,7 +196,7 @@ session_start();
 										</div>
 										
 										<div class="cart-btns">
-												<a href="cart.php" style="width:100%;"><i class="fa fa-edit"></i>  edit cart</a>
+												<a href="cart.php" style="width:75%;"><i class="fa fa-edit"></i>  edit cart</a>
 											
 										</div>
 									</div>
